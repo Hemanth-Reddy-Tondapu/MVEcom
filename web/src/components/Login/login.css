@@ -83,10 +83,10 @@
   border-color: #3b82f6;
   font-size: 0.875rem;
 }
-.icon-eye-invisible {
+.icon-eye {
   position: absolute;
-  right: 510px;
-  top: 396px;
+  right: 10px;
+  top: 6px;
   cursor: pointer;
 }
 .button {
